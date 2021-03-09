@@ -1,6 +1,5 @@
-# yxylaw.github.io
-yxylaw的主页
-- 个人信息
+
+### 个人信息
 - 姓名：杨新钰
 - 年龄：21
 - 学校：GDUT
