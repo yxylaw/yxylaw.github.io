@@ -1,3 +1,17 @@
+<table border="0">
+  <tr>
+    <td width="65%">
+      <h1>yxy</h1>
+      <p><b>学生</b></p>
+      <p><b>邮箱：281818959@qq.com</b></p>
+      <p><b>地址：略略略~</b></p>
+    </td>
+    <td width="25%">
+      <img src="/yxy.jpg" width="100%">   
+    </td>
+  </tr>
+</table>
+
 ### 个人信息
 #### 姓名：杨新钰
 #### 年龄：21
@@ -15,18 +29,4 @@
 
 ### 兴趣爱好
 #### 旅游，运动，立flag
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>yxy</h1>
-      <p><b>学生</b></p>
-      <p><b>邮箱：281818959@qq.com</b></p>
-      <p><b>地址：略略略~</b></p>
-    </td>
-    <td width="25%">
-      <img src="/yxy.jpg" width="100%">   
-    </td>
-  </tr>
-</table>
 
